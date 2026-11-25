@@ -1,0 +1,3 @@
+interface:
+  display_name: "跨平台貼圖製作"
+  short_description: "製作透明母稿，依 YouTube、Discord 與 LINE 的規格裁切、編碼及打包"
